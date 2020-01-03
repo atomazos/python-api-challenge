@@ -10,3 +10,4 @@ I coded a Python script to visualize the weather of 500+ randomly selected citie
 ![image](https://user-images.githubusercontent.com/54033512/71743488-4d621880-2e2a-11ea-8ae8-bb8dab797bf0.png)
 ![image](https://user-images.githubusercontent.com/54033512/71743645-ab8efb80-2e2a-11ea-9037-1775bff0a137.png)
 ![image](https://user-images.githubusercontent.com/54033512/71743650-b0ec4600-2e2a-11ea-8a8c-4175de7f86c6.png)
+
