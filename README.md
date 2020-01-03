@@ -8,7 +8,7 @@ I coded a Python script to visualize the weather of 500+ randomly selected citie
  - Wind Speed (mph) vs. Latitude
 ![image](https://user-images.githubusercontent.com/54033512/71743551-77b3d600-2e2a-11ea-9586-837c6c44f77d.png)
 
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/54033512/71743551-77b3d600-2e2a-11ea-9586-837c6c44f77d.png">
+<img align="left" width="400" height="400" src="https://user-images.githubusercontent.com/54033512/71743551-77b3d600-2e2a-11ea-9586-837c6c44f77d.png">
 
 ![image](https://user-images.githubusercontent.com/54033512/71743488-4d621880-2e2a-11ea-8ae8-bb8dab797bf0.png)
 ![image](https://user-images.githubusercontent.com/54033512/71743645-ab8efb80-2e2a-11ea-9037-1775bff0a137.png)
