@@ -6,4 +6,4 @@ I coded a Python script to visualize the weather of 500+ randomly selected citie
  - Humidity (%) vs. Latitude
  - Cloudiness (%) vs. Latitude
  - Wind Speed (mph) vs. Latitude
- https://github.com/atomazos/python-api-challenge/blob/master/WeatherPy/City%20Latitude%20v.%20Temperature%20(09-26-19).png
+
