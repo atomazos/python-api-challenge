@@ -7,7 +7,7 @@ I coded a Python script to visualize the weather of 500+ randomly selected citie
  - Cloudiness (%) vs. Latitude
  - Wind Speed (mph) vs. Latitude
 <img align="left" width="400" height="400" src="https://user-images.githubusercontent.com/54033512/71743551-77b3d600-2e2a-11ea-9586-837c6c44f77d.png">
-<img align="right" width="400 height="400" src="https://user-images.githubusercontent.com/54033512/71743488-4d621880-2e2a-11ea-8ae8-bb8dab797bf0.png"
+<img align="right" width="500 height="500" src="https://user-images.githubusercontent.com/54033512/71743488-4d621880-2e2a-11ea-8ae8-bb8dab797bf0.png"
 
 ![image](https://user-images.githubusercontent.com/54033512/71743645-ab8efb80-2e2a-11ea-9037-1775bff0a137.png)
 ![image](https://user-images.githubusercontent.com/54033512/71743650-b0ec4600-2e2a-11ea-8a8c-4175de7f86c6.png)
